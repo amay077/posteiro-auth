@@ -1,5 +1,4 @@
 const fetch = require('node-fetch')
-// require('dotenv').config();
 
 // Need for CORS
 const handler = async (event) => {
